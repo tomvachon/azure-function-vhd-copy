@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: montudor/action-zip@v0.1.0
         with:
-          args: zip -r ./imgcopy.zip ./function/
+          args: zip -r ./imgcopy.zip ./function
