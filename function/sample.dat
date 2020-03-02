@@ -1,0 +1,6 @@
+{
+    "source_connection_string": "https://", #FULL URI to VHD WITH TOKEN
+    "destination_container": "testvhd", #destination container name
+    "vhd_name": "mytest.vhd", #destination vhd name
+    "destination_connection_string": "" #FULL URI for Destination container WITH TOKEN 
+}
